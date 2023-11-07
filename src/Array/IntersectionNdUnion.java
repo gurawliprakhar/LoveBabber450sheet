@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class IntersectionNdUnion {
 
 	static void printUnionIntersection(int[]ar1, int[]ar2) {
+		
 		HashSet<Integer> set = new HashSet<>();
 		HashSet<Integer> intersectionSet =  new HashSet<>();
 		
